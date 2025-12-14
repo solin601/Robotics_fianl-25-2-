@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from duckie_led_interfaces/srv/LedColor.srv
+// generated code does not contain a copyright notice
+
+
+module duckie_led_interfaces {
+  module srv {
+    struct LedColor_Request {
+      string color;
+    };
+    struct LedColor_Response {
+      boolean success;
+
+      string message;
+    };
+  };
+};

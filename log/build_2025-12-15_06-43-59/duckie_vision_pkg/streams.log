@@ -1,0 +1,21 @@
+[1.523s] Invoking command in '/home/ubuntu/ros2_ws/src/duckie_vision_pkg': PYTHONPATH=/home/ubuntu/ros2_ws/build/duckie_vision_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/duckie_vision_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/duckie_vision_pkg build --build-base /home/ubuntu/ros2_ws/build/duckie_vision_pkg/build install --record /home/ubuntu/ros2_ws/build/duckie_vision_pkg/install.log --single-version-externally-managed install_data
+[1.909s] running egg_info
+[1.910s] writing ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/PKG-INFO
+[1.911s] writing dependency_links to ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/dependency_links.txt
+[1.912s] writing entry points to ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/entry_points.txt
+[1.912s] writing requirements to ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/requires.txt
+[1.913s] writing top-level names to ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/top_level.txt
+[1.917s] reading manifest file '../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/SOURCES.txt'
+[1.919s] writing manifest file '../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info/SOURCES.txt'
+[1.920s] running build
+[1.920s] running build_py
+[1.920s] running install
+[1.921s] running install_lib
+[1.926s] running install_data
+[1.926s] running install_egg_info
+[1.929s] removing '/home/ubuntu/ros2_ws/install/duckie_vision_pkg/lib/python3.10/site-packages/duckie_vision_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.930s] Copying ../../build/duckie_vision_pkg/duckie_vision_pkg.egg-info to /home/ubuntu/ros2_ws/install/duckie_vision_pkg/lib/python3.10/site-packages/duckie_vision_pkg-0.0.0-py3.10.egg-info
+[1.933s] running install_scripts
+[1.967s] Installing vision_controller script to /home/ubuntu/ros2_ws/install/duckie_vision_pkg/lib/duckie_vision_pkg
+[1.968s] writing list of installed files to '/home/ubuntu/ros2_ws/build/duckie_vision_pkg/install.log'
+[2.014s] Invoked command in '/home/ubuntu/ros2_ws/src/duckie_vision_pkg' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/duckie_vision_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/duckie_vision_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/duckie_vision_pkg build --build-base /home/ubuntu/ros2_ws/build/duckie_vision_pkg/build install --record /home/ubuntu/ros2_ws/build/duckie_vision_pkg/install.log --single-version-externally-managed install_data

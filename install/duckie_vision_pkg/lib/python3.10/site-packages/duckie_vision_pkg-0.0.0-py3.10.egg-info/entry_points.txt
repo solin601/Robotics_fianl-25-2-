@@ -1,0 +1,3 @@
+[console_scripts]
+vision_controller = duckie_vision_pkg.vision_controller:main
+
