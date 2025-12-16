@@ -26,6 +26,7 @@ Duckiebot은 시뮬레이션 환경에서 다음 기능을 수행한다.
 
 본 프로젝트는 ROS2 워크스페이스(duckiebot_ws) 기반으로 구성되며, 기능별 패키지 단위로 구조화하였다.
 
+```text
 duckiebot_ws/
 ├── src/
 │   ├── duckie_led_interfaces/        # LED 제어용 ROS2 서비스 인터페이스
