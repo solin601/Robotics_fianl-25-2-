@@ -1,5 +1,0 @@
-  File "/home/ubuntu/ros2_ws/install/duckie_led_pkg/lib/python3.10/site-packages/duckie_led_pkg/led_service.py", line 19
-    self.get_logger().info('Ready)
-                           ^
-SyntaxError: unterminated string literal (detected at line 19)
-

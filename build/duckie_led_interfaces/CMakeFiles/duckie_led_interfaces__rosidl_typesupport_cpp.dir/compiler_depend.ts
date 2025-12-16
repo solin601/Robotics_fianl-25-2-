@@ -1,2 +1,0 @@
-# CMAKE generated file: DO NOT EDIT!
-# Timestamp file for compiler generated dependencies management for duckie_led_interfaces__rosidl_typesupport_cpp.

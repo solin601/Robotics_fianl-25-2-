@@ -1,2 +1,0 @@
-# Empty custom commands generated dependencies file for duckie_led_interfaces.
-# This may be replaced when dependencies are built.

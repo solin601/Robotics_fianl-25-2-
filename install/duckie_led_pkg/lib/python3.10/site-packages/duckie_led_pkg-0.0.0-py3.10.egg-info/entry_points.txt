@@ -1,3 +1,0 @@
-[console_scripts]
-led_service = duckie_led_pkg.led_service:main
-

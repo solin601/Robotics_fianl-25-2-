@@ -1,8 +1,0 @@
-setup.py
-duckie_led_interfaces/__init__.py
-duckie_led_interfaces.egg-info/PKG-INFO
-duckie_led_interfaces.egg-info/SOURCES.txt
-duckie_led_interfaces.egg-info/dependency_links.txt
-duckie_led_interfaces.egg-info/top_level.txt
-duckie_led_interfaces/srv/__init__.py
-duckie_led_interfaces/srv/_led_color.py

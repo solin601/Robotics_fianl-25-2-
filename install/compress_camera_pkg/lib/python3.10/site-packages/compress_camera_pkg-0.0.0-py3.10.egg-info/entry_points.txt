@@ -1,3 +1,0 @@
-[console_scripts]
-compress_camera_node = compress_camera_pkg.compress_camera_node:main
-
