@@ -16,11 +16,11 @@ Duckiebot은 시뮬레이션 환경에서 다음 기능을 수행한다.
 
 2. 개발 환경
 
-Simulator: NVIDIA Isaac Sim
-Middleware: ROS2
-Programming Language: Python
-Image Processing: OpenCV
-Robot Model: URDF 기반 Duckiebot
+- Simulator: NVIDIA Isaac Sim
+- Middleware: ROS2
+- Programming Language: Python
+- Image Processing: OpenCV
+- Robot Model: URDF 기반 Duckiebot
 
 4. 프로젝트 구조
 
@@ -28,21 +28,22 @@ Robot Model: URDF 기반 Duckiebot
 
 duckiebot_ws/
 ├── src/
-│   ├── duckie_led_interfaces/     # LED 제어용 ROS2 서비스 인터페이스
+│   ├── duckie_led_interfaces/        # LED 제어용 ROS2 서비스 인터페이스
 │   │   └── srv/
 │   │       └── LedControl.srv
 │   │
-│   ├── duckie_led_pkg/            # LED 제어 서비스 노드
+│   ├── duckie_led_pkg/               # LED 제어 서비스 노드
 │   │   └── duckie_led_pkg/
 │   │       └── led_service_node.py
 │   │
-│   ├── duckie_vision_pkg/         # 카메라 영상 처리 및 행동 제어 노드
+│   ├── duckie_vision_pkg/            # 카메라 영상 처리 및 행동 제어 노드
 │   │   └── duckie_vision_pkg/
 │   │       └── vision_control_node.py
 │   │
-│   └── compress_camera_pkg/       # 카메라 이미지 압축 및 퍼블리시 노드
+│   └── compress_camera_pkg/          # 카메라 이미지 압축 및 퍼블리시 노드
 │
-└── isaac_sim/                     # Isaac Sim 시뮬레이션 및 Action Graph 설정
+└── isaac_sim/                         # Isaac Sim 시뮬레이션 및 Action Graph 설정
+
 
 4. 빌드 방법
 4.1 ROS2 워크스페이스 빌드
